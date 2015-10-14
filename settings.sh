@@ -34,7 +34,7 @@ defaults write com.apple.dock wvous-br-modifier -int 0
 # Sound
 # =====
 #Disable the Startup Chime
-sudo nvram SystemAudioVolume=" "
+##sudo nvram SystemAudioVolume=" "
 
 
 # Trackpad
