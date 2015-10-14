@@ -14,6 +14,17 @@ rbenv
 ruby-build
 tmate
 ngrok
+autoconf
+automake
+libtool
+subversion
+maven
+libtool
+svn
+apr
+bash-completion
+python3
+cmake
 
 ## VPN stuff
 #tuntap
@@ -26,8 +37,8 @@ caskroom/cask/brew-cask
 cloudfoundry-cli
 
 ## Time-waste stuff
-fortune
-cowsay
+##fortune
+##cowsay
 
 ## Games
-homebrew/games/ckan
+##homebrew/games/ckan

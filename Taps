@@ -1,6 +1,10 @@
 ## brew cask and more versions of casks
 caskroom/versions
 
+homebrew/versions
+homebrew/science
+homebrew/apache
+
 ## Add tap for Pivotal
 pivotal/tap
 
