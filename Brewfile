@@ -1,7 +1,4 @@
 ## Productive stuff
-zsh
-zsh-completions
-zsh-syntax-highlighting
 git
 git-flow
 wget
@@ -26,15 +23,16 @@ bash-completion
 python3
 cmake
 
+
 ## VPN stuff
-#tuntap
-#openconnect
+tuntap
+openconnect
 
 ## brew cask and more versions of casks
 caskroom/cask/brew-cask
 
 ## Pivotal CF cli
-cloudfoundry-cli
+#cloudfoundry-cli
 
 ## Time-waste stuff
 ##fortune
